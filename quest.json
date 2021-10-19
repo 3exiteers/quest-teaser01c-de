@@ -1,0 +1,36 @@
+{
+    "repository": {
+        "type": "quest",
+        "organization": "3exiteers",
+        "repository": "quest-teaser01a-de",
+        "private": true
+    },
+    "id": "TEASER01A",
+    "type": "quest",
+    "version": 1.0,
+    "tag": ["text", "perspective"],
+    "level": ["intermediate"],
+    "license": "MIT",
+    "language": "de",
+    "name": "Teaser 01",
+    "description": "",
+    "content": {
+        "body": "<p>[image:{filename:quest.png}]</p><p>Wie lautet der Code?</p>"
+    },
+    "solutions":["abc","def"],
+    "hints":{
+        "1":{
+            "text":"Hinweis 1",
+            "points":-1
+        },
+        "2":{
+            "text":"Hinweis 2",
+            "points":-1
+        },
+        "3":{
+            "text":"Hinweis 3",
+            "points":-1
+        }
+
+    }
+}
