@@ -1,36 +1,35 @@
 {
     "repository": {
         "type": "quest",
-        "organization": "3exiteers",
-        "repository": "quest-teaser01a-de",
+        "organization": "3exiteers",  
+        "repository": "quest-teaser01c-de",
         "private": true
-    },
-    "id": "TEASER01A",
+      },
+    "id": "teaser01c-de",
     "type": "quest",
     "version": 1.0,
-    "tag": ["text", "perspective"],
-    "level": ["intermediate"],
+    "tag": ["text", "nonsense"],
+    "level": ["easy"],
     "license": "MIT",
-    "language": "de",
-    "name": "Teaser 01",
+    "name": "Teaser01c",
     "description": "",
+    "solutions":["1337", "Eins Drei Drei Sieben", "LEET"],
     "content": {
-        "body": "<p>[image:{filename:quest.png}]</p><p>Wie lautet der Code?</p>"
+        "body": "Lösung hinzugefügt."
     },
-    "solutions":["abc","def"],
     "hints":{
         "1":{
-            "text":"Hinweis 1",
-            "points":-1
+            "text":"",
+            "points":-3
         },
         "2":{
-            "text":"Hinweis 2",
-            "points":-1
+            "text":"",
+            "points":-3
         },
         "3":{
-            "text":"Hinweis 3",
-            "points":-1
+            "text":"Die Lösung lautet %%%variable:solution%%%.",
+            "points":-10,
+            "solution": true
         }
-
     }
 }
