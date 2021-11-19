@@ -13,17 +13,17 @@
     "license": "MIT",
     "name": "Teaser01c",
     "description": "",
-    "solutions":["1337", "Eins Drei Drei Sieben", "LEET"],
+    "solutions":["1337"],
     "content": {
-        "body": "Lösung hinzugefügt. Siehe Commit: 39429b23e73a149c53d3181b642048533b430f7a"
+        "body": "//Done: Lösung hinzugefügt, siehe Commit: 39429b23e73a149c53d3181b642048533b430f7a"
     },
     "hints":{
         "1":{
-            "text":"Siehe GitHub.",
+            "text":"Siehe GitHub. Dort kann man die Json einsehen.",
             "points":-3
         },
         "2":{
-            "text":"Suche auf GitHub nach dem Commit (in der Suchleiste) und dort unter 'Commit'",
+            "text":"Suche auf GitHub nach dem Commit (in der Suchleiste) und dort unter 'Commit'. Dann öffne die zugehörige Datei und such nach einem relevanten Feld.",
             "points":-3
         },
         "3":{
